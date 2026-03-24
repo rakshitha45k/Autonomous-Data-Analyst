@@ -83,6 +83,9 @@ Autonomous-Data-Analyst/
 
 **##output**
 https://github.com/rakshitha45k/Autonomous-Data-Analyst/issues/1
+<img width="1920" height="1080" alt="Screenshot 2026-02-27 134049" src="https://github.com/user-attachments/assets/9ae49063-3abc-4122-b051-284dd335ae89" />
+
+
 
 
 
