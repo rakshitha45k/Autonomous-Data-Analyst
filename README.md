@@ -89,6 +89,8 @@ https://github.com/rakshitha45k/Autonomous-Data-Analyst/issues/1
 <img width="1920" height="1080" alt="Screenshot 2026-03-12 221307" src="https://github.com/user-attachments/assets/8ee25ca3-cbea-4e6b-b138-64f4375b1771" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-12 221320" src="https://github.com/user-attachments/assets/ea1923fd-c2ec-42f6-b5b5-70e557f262fd" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-12 221410" src="https://github.com/user-attachments/assets/44502afc-25f2-4985-ba3b-bbebc47667a9" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 221428" src="https://github.com/user-attachments/assets/348a993d-2300-405d-8340-6eec665ebf08" />
+
 
 
 
